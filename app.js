@@ -1,7 +1,7 @@
 import products from "./products.json" assert { type: "json" };
 
 const main = document.querySelector("main");
-
+.
 
 for (let i = 0; i < products.length; i++) {
   const product = document.createElement("div");
